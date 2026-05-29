@@ -1,2 +1,2 @@
-# Thetre-Customer-Analysis
+# Theatre-Customer-Analysis
 
